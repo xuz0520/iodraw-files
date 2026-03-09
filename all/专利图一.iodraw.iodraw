@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_vFF-xrspYOwfijP3e6n-1" value="system_architecture" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-30" width="1126" height="1488" as="geometry" />
+          <mxGeometry x="-370" y="-230" width="1126" height="1488" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-2" value="sEMG preprocessing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
           <mxGeometry x="93" y="687" width="201" height="49" as="geometry" />

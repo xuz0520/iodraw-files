@@ -1,0 +1,155 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="6Mu5zoGSA-5GUXRSfLs3">
+    <mxGraphModel dx="1523" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_vFF-xrspYOwfijP3e6n-1" value="system_architecture" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="-30" width="1126" height="1488" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-2" value="sEMG preprocessing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="93" y="687" width="201" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-3" value="algorithms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="48" y="641" width="431" height="781" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-4" value="Gastrocnemius muscle location" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="238" y="121" width="221" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-5" value="sEMG electrodes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="259" y="262" width="178" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-6" value="Shoe location" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="532" y="129" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-7" value="Shoe-mounted IMU sensor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="487" y="262" width="246" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-8" value="sEMG signal acquisition device" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="235" y="424" width="226" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-9" value="Inertial data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="535" y="433" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-10" value="Feature extraction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="96" y="820" width="194" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-11" value="Motion mode recognition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="141" y="944" width="239" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-12" value="Confidence estimation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="150" y="1069" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-13" value="Step length model selection or fusion" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="165" y="1193" width="192" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-14" value="PDR distance update" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="157" y="1335" width="209" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-15" value="Personal Computer (PC) / Host Computer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="576" y="678" width="244" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-16" value="PDR Distance Output" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="890" y="820" width="209" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-17" value="processing_unit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="28" y="603" width="827" height="856" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-18" value="human_leg_diagram" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="203" y="83" width="565" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-19" value="input_sensors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
+          <mxGeometry x="90" y="46" width="717" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-4" target="_vFF-xrspYOwfijP3e6n-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-6" target="_vFF-xrspYOwfijP3e6n-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-5" target="_vFF-xrspYOwfijP3e6n-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-7" target="_vFF-xrspYOwfijP3e6n-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-2" target="_vFF-xrspYOwfijP3e6n-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.39;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-10" target="_vFF-xrspYOwfijP3e6n-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-11" target="_vFF-xrspYOwfijP3e6n-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-12" target="_vFF-xrspYOwfijP3e6n-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-13" target="_vFF-xrspYOwfijP3e6n-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.25;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-8" target="_vFF-xrspYOwfijP3e6n-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567" y="528" />
+              <mxPoint x="567" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.52;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-9" target="_vFF-xrspYOwfijP3e6n-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="528" />
+              <mxPoint x="708" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-8" target="_vFF-xrspYOwfijP3e6n-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.72;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-9" target="_vFF-xrspYOwfijP3e6n-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="528" />
+              <mxPoint x="392" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-15" target="_vFF-xrspYOwfijP3e6n-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="698" y="783" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFF-xrspYOwfijP3e6n-34" value="System Architecture of sEMG-assisted PDR Distance Estimation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="722" width="259" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

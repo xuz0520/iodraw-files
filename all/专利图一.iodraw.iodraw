@@ -50,7 +50,7 @@
           <mxGeometry x="260.88809946714036" y="291.6129032258064" width="110.5150976909414" height="28.817204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-16" value="PDR Distance Output" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="403.1083481349912" y="352.68817204301075" width="94.6625222024867" height="21.075268817204304" as="geometry" />
+          <mxGeometry x="403.1083481349912" y="358.99817204301075" width="94.6625222024867" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-17" value="processing_unit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
           <mxGeometry x="12.682060390763766" y="259.35483870967744" width="374.5737122557727" height="368.17204301075265" as="geometry" />

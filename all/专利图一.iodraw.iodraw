@@ -5,61 +5,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_vFF-xrspYOwfijP3e6n-1" value="system_architecture" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-380" width="773" height="1218" as="geometry" />
+          <mxGeometry x="270" y="-380" width="510" height="640" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-2" value="sEMG preprocessing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="63.84458259325044" y="562.3427419354839" width="137.9866785079929" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="42.12255772646537" y="295.48387096774195" width="91.03907637655419" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-3" value="algorithms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="32.95204262877442" y="524.6895161290322" width="295.88188277087033" height="639.2862903225806" as="geometry" />
+          <mxGeometry x="21.74067495559503" y="275.6989247311828" width="195.2131438721137" height="335.9139784946236" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-4" value="Gastrocnemius muscle location" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="163.3872113676732" y="99.04435483870967" width="151.71669626998224" height="54.842741935483865" as="geometry" />
+          <mxGeometry x="107.79751332149202" y="52.04301075268817" width="100.09769094138545" height="28.817204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-5" value="sEMG electrodes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="177.803730017762" y="214.45967741935485" width="122.19715808170517" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="117.30905861456486" y="112.68817204301075" width="80.62166962699825" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-6" value="Shoe location" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="365.21847246891656" y="105.59274193548387" width="107.09413854351688" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="240.9591474245116" y="55.483870967741936" width="70.65719360568384" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-7" value="Shoe-mounted IMU sensor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="334.3259325044405" y="214.45967741935485" width="168.87921847246892" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="220.57726465364124" y="112.68817204301075" width="111.42095914742453" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-8" value="sEMG signal acquisition device" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="161.32770870337478" y="347.06451612903226" width="155.1492007104796" height="54.842741935483865" as="geometry" />
+          <mxGeometry x="106.43872113676734" y="182.36559139784947" width="102.36234458259327" height="28.817204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-9" value="Inertial data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="367.27797513321497" y="354.43145161290323" width="102.2886323268206" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="242.3179396092363" y="186.23655913978496" width="67.4866785079929" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-10" value="Feature extraction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="65.90408525754884" y="671.2096774193549" width="133.18117229129663" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="43.48134991119006" y="352.68817204301075" width="87.86856127886325" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-11" value="Motion mode recognition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="96.79662522202486" y="772.7096774193549" width="164.07371225577268" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="63.86323268206039" y="406.0215053763441" width="108.2504440497336" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-12" value="Confidence estimation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="102.97513321492008" y="875.0282258064516" width="151.71669626998224" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="67.93960923623447" y="459.78494623655916" width="100.09769094138545" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-13" value="Step length model selection or fusion" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="113.27264653641208" y="976.5282258064516" width="131.8081705150977" height="54.842741935483865" as="geometry" />
+          <mxGeometry x="74.7335701598579" y="513.1182795698925" width="86.96269982238012" height="28.817204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-14" value="PDR distance update" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="107.78063943161635" y="1092.7620967741934" width="143.47868561278864" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="71.11012433392541" y="574.1935483870967" width="94.6625222024867" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-15" value="Personal Computer (PC) / Host Computer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="395.4245115452931" y="554.9758064516128" width="167.50621669627" height="54.842741935483865" as="geometry" />
+          <mxGeometry x="260.88809946714036" y="291.6129032258064" width="110.5150976909414" height="28.817204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-16" value="PDR Distance Output" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="610.9857904085258" y="671.2096774193549" width="143.47868561278864" height="40.108870967741936" as="geometry" />
+          <mxGeometry x="403.1083481349912" y="352.68817204301075" width="94.6625222024867" height="21.075268817204304" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-17" value="processing_unit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="19.22202486678508" y="493.5846774193548" width="567.7362344582593" height="700.6774193548387" as="geometry" />
+          <mxGeometry x="12.682060390763766" y="259.35483870967744" width="374.5737122557727" height="368.17204301075265" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-18" value="human_leg_diagram" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="139.35968028419182" y="67.93951612903226" width="387.873001776199" height="217.73387096774192" as="geometry" />
+          <mxGeometry x="91.94493783303732" y="35.6989247311828" width="255.90586145648317" height="114.40860215053763" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-19" value="input_sensors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_vFF-xrspYOwfijP3e6n-1">
-          <mxGeometry x="61.785079928952044" y="37.65322580645161" width="492.22113676731794" height="395.3588709677419" as="geometry" />
+          <mxGeometry x="40.76376554174068" y="19.78494623655914" width="324.7513321492007" height="207.74193548387095" as="geometry" />
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-4" target="_vFF-xrspYOwfijP3e6n-5">
           <mxGeometry relative="1" as="geometry">
@@ -89,7 +89,7 @@
         <mxCell id="_vFF-xrspYOwfijP3e6n-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.39;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-10" target="_vFF-xrspYOwfijP3e6n-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="132.49467140319717" y="742.4233870967741" />
+              <mxPoint x="87.41563055062169" y="390.1075268817204" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,38 +111,38 @@
         <mxCell id="_vFF-xrspYOwfijP3e6n-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.25;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-8" target="_vFF-xrspYOwfijP3e6n-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="389.24600355239784" y="432.1935483870967" />
-              <mxPoint x="389.24600355239784" y="524.6895161290322" />
+              <mxPoint x="256.8117229129663" y="227.09677419354836" />
+              <mxPoint x="256.8117229129663" y="275.6989247311828" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.52;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-9" target="_vFF-xrspYOwfijP3e6n-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="486.0426287744228" y="432.1935483870967" />
-              <mxPoint x="486.0426287744228" y="524.6895161290322" />
+              <mxPoint x="320.67495559502674" y="227.09677419354836" />
+              <mxPoint x="320.67495559502674" y="275.6989247311828" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-8" target="_vFF-xrspYOwfijP3e6n-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="132.49467140319717" y="432.1935483870967" />
+              <mxPoint x="87.41563055062169" y="227.09677419354836" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.72;entryY=0.01;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-9" target="_vFF-xrspYOwfijP3e6n-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="269.10834813499116" y="432.1935483870967" />
-              <mxPoint x="269.10834813499116" y="742.4233870967741" />
+              <mxPoint x="177.54884547069278" y="227.09677419354836" />
+              <mxPoint x="177.54884547069278" y="390.1075268817204" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_vFF-xrspYOwfijP3e6n-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="_vFF-xrspYOwfijP3e6n-1" source="_vFF-xrspYOwfijP3e6n-15" target="_vFF-xrspYOwfijP3e6n-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="479.1776198934281" y="640.9233870967741" />
+              <mxPoint x="316.14564831261106" y="336.7741935483871" />
             </Array>
           </mxGeometry>
         </mxCell>
